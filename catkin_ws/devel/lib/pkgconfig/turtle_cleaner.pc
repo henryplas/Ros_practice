@@ -1,0 +1,8 @@
+prefix=/home/henry/catkin_ws/devel
+
+Name: turtle_cleaner
+Description: Description of turtle_cleaner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

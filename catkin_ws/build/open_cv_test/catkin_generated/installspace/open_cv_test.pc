@@ -1,0 +1,8 @@
+prefix=/home/henry/catkin_ws/install
+
+Name: open_cv_test
+Description: Description of open_cv_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

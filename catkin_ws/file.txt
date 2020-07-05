@@ -1,0 +1,26 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _beginner_tutorials_generate_messages_check_deps_AddTwoInts
+[  0%] Built target _beginner_tutorials_generate_messages_check_deps_Num
+[  0%] Built target std_msgs_generate_messages_eus
+[ 11%] Built target beginner_tutorials_generate_messages_cpp
+[ 35%] Built target beginner_tutorials_generate_messages_py
+[ 47%] Built target beginner_tutorials_generate_messages_lisp
+[ 58%] Built target beginner_tutorials_generate_messages_nodejs
+[ 64%] Building CXX object beginner_tutorials/CMakeFiles/talker.dir/src/talker.cpp.o
+[ 82%] Built target beginner_tutorials_generate_messages_eus
+[ 94%] Built target listener
+[ 94%] Built target beginner_tutorials_generate_messages
+Base path: /home/henry/catkin_ws
+Source space: /home/henry/catkin_ws/src
+Build space: /home/henry/catkin_ws/build
+Devel space: /home/henry/catkin_ws/devel
+Install space: /home/henry/catkin_ws/install
+####
+#### Running command: "make cmake_check_build_system" in "/home/henry/catkin_ws/build"
+####
+####
+#### Running command: "make -j4 -l4" in "/home/henry/catkin_ws/build"
+####

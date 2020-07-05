@@ -1,0 +1,2 @@
+beginner_tutorials:open_cv_test:ros_essentials_cpp-master:ros_service_assignment:turtle_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/henry/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/henry/catkin_ws/install -G Unix Makefiles
